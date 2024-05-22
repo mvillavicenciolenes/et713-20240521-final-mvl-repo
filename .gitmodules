@@ -1,0 +1,3 @@
+[submodule "mytube_rails"]
+	path = mytube_rails
+	url = https://github.com/mvillavicenciolenes/et713-20240521-final-mvl-repo.git
